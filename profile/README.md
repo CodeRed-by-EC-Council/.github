@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ec-council-learning/.github/main/assets/codered-mark.svg" alt="CodeRed logo" width="110">
 
-# CodeRed by EC-Council: Free CTF Challenges, Hands-on Cybersecurity Labs and AI Security Courses
+<h1>CodeRed by EC-Council:<br><a href="https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org">Create a Free Account</a><br>Free CTF Challenges, Hands-on Cybersecurity Labs and AI Security Courses</h1>
 
 **Hands-on cybersecurity training you can start for free.**
 
