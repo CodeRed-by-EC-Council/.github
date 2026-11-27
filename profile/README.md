@@ -4,11 +4,13 @@
 
 # CodeRed by EC-Council
 
-**One Platform, All of Cyber Education**
-
 **Hands-on cybersecurity training you can start for free.**
 
 <a href="https://coderedpro.com/collections/hands-on-ctfs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="CTFs 400%2B" src="https://img.shields.io/badge/CTFs-400%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Labs 600%2B" src="https://img.shields.io/badge/Labs-600%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Courses 900%2B" src="https://img.shields.io/badge/Courses-900%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Free%20account Create" src="https://img.shields.io/badge/Free%20account-Create-d22027?style=for-the-badge"></a>
+
+<a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Average%20rating 4.8%E2%98%85" src="https://img.shields.io/badge/Average%20rating-4.8%E2%98%85-d22027?style=for-the-badge"></a>
+
+<sub>4.8★ average rating, as shown on coderedpro.com</sub>
 
 </div>
 
