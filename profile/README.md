@@ -89,13 +89,12 @@ All 16 AI security courses for cybersecurity:
 ---
 
 ## 🎯 Cybersecurity Certification Prep
-Cybersecurity certification prep courses, including CISSP, CISM, CompTIA Security+, AWS, Azure and Kubernetes (CKS) exam prep. These are the cert prep courses on CodeRed today:
+Cybersecurity certification prep courses, including CISSP, CISM, AWS, Azure and Kubernetes (CKS) exam prep. These are the cert prep courses on CodeRed today:
 - [CISSP Cert Prep](https://coderedpro.com/products/cissp-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Prepare for the ISC2 CISSP certification exam with in-depth explanations and real-world examples.
 - [CISSP Certification Domains 1, 2, 3, and 4 Video Training](https://coderedpro.com/products/cissp-certifications-domains-1-2-3-and-4-video-training?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Video training for CISSP domains 1, 2, 3 and 4.
 - [CISSP Certification Domains 5, 6, 7, and 8 Video Training](https://coderedpro.com/products/cissp-certification-domains-5-6-7-and-8-video-training?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Video training for CISSP domains 5, 6, 7 and 8.
 - [ISACA CISM (Certified Information Security Manager) - Cert Prep](https://coderedpro.com/products/cism-certified-information-security-manager-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - A comprehensive reference guide designed to assist individuals in preparing for the ISACA CISM Exam.
 - [Certified Secure Software Lifecycle Professional Cert Prep](https://coderedpro.com/products/certified-secure-software-lifecycle-professional-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Build your knowledge of secure software assurance and gain a deep understanding of software security standards.
-- [CompTIA Security+ Exam Prep](https://coderedpro.com/products/comptia-security-plus-exam-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Core IT security skills for identifying and preventing cyber threats.
 - [AWS Certified Security Specialty - Cert Prep](https://coderedpro.com/products/aws-certified-security-specialty-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Everything that you need to know to pass the Amazon Web Services (AWS) Certified Security Specialty exam.
 - [Microsoft AZ-500: Azure Security Engineer](https://coderedpro.com/products/microsoft-az-500-azure-security-engineer?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Everything that you need to know to pass the Microsoft AZ-500 Azure Security Engineer exam.
 - [Microsoft Security, Compliance, and Identity Fundamentals Exam (SC-900) - Volume 1](https://coderedpro.com/products/microsoft-security-compliance-and-identity-fundamentals-exam-sc-900-volume-1?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Everything that you need to know to pass the Microsoft SC-900 SCI Fundamentals exam.
@@ -196,10 +195,10 @@ More guides: [Free cybersecurity courses for beginners](https://coderedpro.com/c
 ## 🗂️ What is in this organization
 This is the GitHub home of CodeRed, EC-Council's hands-on cybersecurity learning platform. The repositories here:
 
-- [free-cybersecurity-learning](https://github.com/CodeRed-by-EC-Council/free-cybersecurity-learning): the free CTFs, labs and video courses you can start with an account at no cost.
-- [ctf-challenges-and-practice-labs](https://github.com/CodeRed-by-EC-Council/ctf-challenges-and-practice-labs): the full catalog of CTF challenges and practice labs, by level and track.
-- [ai-in-cybersecurity](https://github.com/CodeRed-by-EC-Council/ai-in-cybersecurity): AI security courses, labs and CTFs.
-- [cyber-skills-roadmaps](https://github.com/CodeRed-by-EC-Council/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
+- [free-cybersecurity-learning](https://github.com/ec-council-learning/free-cybersecurity-learning): the free CTFs, labs and video courses you can start with an account at no cost.
+- [ctf-challenges-and-practice-labs](https://github.com/ec-council-learning/ctf-challenges-and-practice-labs): the full catalog of CTF challenges and practice labs, by level and track.
+- [ai-in-cybersecurity](https://github.com/ec-council-learning/ai-in-cybersecurity): AI security courses, labs and CTFs.
+- [cyber-skills-roadmaps](https://github.com/ec-council-learning/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
 - Course companion code and materials from EC-Council instructors, in the other repositories listed below.
 
 **[Create free account](https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** | Platform: [learning.eccouncil.org](https://learning.eccouncil.org/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | Support: support@eccouncil.org
