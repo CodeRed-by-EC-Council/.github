@@ -71,6 +71,31 @@ All 16 AI security courses:
 
 ---
 
+## 🎯 Certification Prep
+Exam prep courses for security and cloud certifications. These are the cert prep courses on CodeRed today:
+- [CISSP Cert Prep](https://coderedpro.com/products/cissp-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Prepare for the ISC2 CISSP certification exam with in-depth explanations and real-world examples.
+- [CISSP Certification Domains 1, 2, 3, and 4 Video Training](https://coderedpro.com/products/cissp-certifications-domains-1-2-3-and-4-video-training?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Video training for CISSP domains 1, 2, 3 and 4.
+- [CISSP Certification Domains 5, 6, 7, and 8 Video Training](https://coderedpro.com/products/cissp-certification-domains-5-6-7-and-8-video-training?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Video training for CISSP domains 5, 6, 7 and 8.
+- [ISACA CISM (Certified Information Security Manager) - Cert Prep](https://coderedpro.com/products/cism-certified-information-security-manager-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - A comprehensive reference guide designed to assist individuals in preparing for the ISACA CISM Exam.
+- [Certified Secure Software Lifecycle Professional Cert Prep](https://coderedpro.com/products/certified-secure-software-lifecycle-professional-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Build your knowledge of secure software assurance and gain a deep understanding of software security standards.
+- [CompTIA Security+ Exam Prep](https://coderedpro.com/products/comptia-security-plus-exam-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Core IT security skills for identifying and preventing cyber threats.
+- [AWS Certified Security Specialty - Cert Prep](https://coderedpro.com/products/aws-certified-security-specialty-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Everything that you need to know to pass the Amazon Web Services (AWS) Certified Security Specialty exam.
+- [Microsoft AZ-500: Azure Security Engineer](https://coderedpro.com/products/microsoft-az-500-azure-security-engineer?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Everything that you need to know to pass the Microsoft AZ-500 Azure Security Engineer exam.
+- [Microsoft Security, Compliance, and Identity Fundamentals Exam (SC-900) - Volume 1](https://coderedpro.com/products/microsoft-security-compliance-and-identity-fundamentals-exam-sc-900-volume-1?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Everything that you need to know to pass the Microsoft SC-900 SCI Fundamentals exam.
+- [Microsoft Security, Compliance, and Identity Fundamentals Exam (SC-900) - Volume 2 of the Microsoft SC-900 exam prep.
+- [AZ-900: Microsoft Azure Fundamentals Certification](https://coderedpro.com/products/az-900-microsoft-azure-fundamentals-certification?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - A guide to preparing for the Microsoft AZ-900 exam with a detailed explanation.
+- [Unleash Microsoft Security CERT Preps](https://coderedpro.com/products/unleash-microsoft-security-cert-preps?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Fulfil your career ambitions in Microsoft security with end-to-end training in all Microsoft cybersecurity tools and services.
+- [Google Cloud Certified - Professional Cloud Network Engineer Cert Prep](https://coderedpro.com/products/google-cloud-certified-professional-cloud-network-engineer-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Acquire the skills and knowledge needed to pass Google Cloud’s Professional Cloud Network Engineer exam.
+- [Certified Kubernetes Security Specialist (CKS)](https://coderedpro.com/products/certified-kubernetes-security-specialist-cks?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Prepare yourself to get your desired Certified Kubernetes Security Specialist (CKS) certification.
+- [CCNA Certification Preparation](https://coderedpro.com/products/ccna-certification-preparation?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Gain in-depth information on the functionality of networking tools for the preparation of CCNA Certification.
+- [AIGP Certification Prep: AI Governance Masterclass](https://coderedpro.com/products/aigp-certification-prep-ai-governance-masterclass?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Building Responsible AI Governance Across the AI Life Cycle.
+- [COBIT® 2019 Foundation Training + Exam Prep (Volume 1)](https://coderedpro.com/products/cobit-2019-foundation-training-plus-exam-prep-volume-one?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Volume 1 of the COBIT 2019 Foundation training and exam prep.
+- [COBIT® 2019 Foundation Training + Exam Prep (Volume 2)](https://coderedpro.com/products/cobit-2019-foundation-training-plus-exam-prep-volume-two?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Volume 2 of the COBIT 2019 Foundation training and exam prep.
+
+[Search all cert prep courses](https://coderedpro.com/search?q=cert+prep&utm_source=github&utm_medium=org_readme&utm_campaign=github_org)
+
+---
+
 ## 🚩 Free CTF Challenges
 Try a real capture-the-flag challenge, about 1 hour each. All 15 free CTFs:
 - [Zsoft](https://coderedpro.com/products/zsoft-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Perform network scanning and web enumeration to identify a SQL Injection vulnerability.
