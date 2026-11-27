@@ -195,10 +195,10 @@ More guides: [Free cybersecurity courses for beginners](https://coderedpro.com/c
 ## 🗂️ What is in this organization
 This is the GitHub home of CodeRed, EC-Council's hands-on cybersecurity learning platform. The repositories here:
 
-- [free-cybersecurity-learning](https://github.com/ec-council-learning/free-cybersecurity-learning): the free CTFs, labs and video courses you can start with an account at no cost.
-- [ctf-challenges-and-practice-labs](https://github.com/ec-council-learning/ctf-challenges-and-practice-labs): the full catalog of CTF challenges and practice labs, by level and track.
-- [ai-in-cybersecurity](https://github.com/ec-council-learning/ai-in-cybersecurity): AI security courses, labs and CTFs.
-- [cyber-skills-roadmaps](https://github.com/ec-council-learning/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
+- [free-cybersecurity-learning](https://github.com/CodeRed-by-EC-Council/free-cybersecurity-learning): the free CTFs, labs and video courses you can start with an account at no cost.
+- [ctf-challenges-and-practice-labs](https://github.com/CodeRed-by-EC-Council/ctf-challenges-and-practice-labs): the full catalog of CTF challenges and practice labs, by level and track.
+- [ai-in-cybersecurity](https://github.com/CodeRed-by-EC-Council/ai-in-cybersecurity): AI security courses, labs and CTFs.
+- [cyber-skills-roadmaps](https://github.com/CodeRed-by-EC-Council/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
 - Course companion code and materials from EC-Council instructors, in the other repositories listed below.
 
 **[Create free account](https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** | Platform: [learning.eccouncil.org](https://learning.eccouncil.org/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | Support: support@eccouncil.org
