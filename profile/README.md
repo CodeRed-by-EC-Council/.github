@@ -7,7 +7,8 @@ Hands-on cybersecurity training you can start for free.
 | Real tools in a browser | Courses and labs on AI attacks and defense | Guides and threat write-ups |
 | [Browse labs](https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Browse AI courses](https://coderedpro.com/collections/all-ai-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Free courses](https://coderedpro.com/collections/free-cybersecurity-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) |
 
-**[Create free account](https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** - free access to 15 CTFs, 15 labs and 25+ video courses. No card required.
+> [!TIP]
+> **[Create free account](https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** - free access to 15 CTFs, 15 labs and 25+ video courses. No card required.
 
 **400+ CTF challenges | 600+ hands-on labs | 900+ micro-courses | 70+ learning paths**
 
