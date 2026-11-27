@@ -30,6 +30,19 @@ CodeRed is EC-Council's hands-on cybersecurity learning platform. This organizat
 
 ---
 
+## ⭐ Featured Courses
+Course bundles and learning paths from CodeRed:
+- [Ultimate Cybersecurity Awareness Bundle](https://offers.coderedpro.com/the-ultimate-cybersecurity-awareness-bundle-super-special-sale/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - 15 AI and cybersecurity courses, from AI in reconnaissance and threat modeling to LLM and RAG security, penetration testing, digital forensics and incident response.
+- [Ultimate Red Team Cyber Suite](https://offers.coderedpro.com/the-ultimate-red-team-cyber-suite/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - 15 courses and 95+ hours of practical training across the stages of the red teaming process.
+- [The CISO Cyber Suite: Hands-On Executive Path](https://offers.coderedpro.com/the-ciso-cyber-suite-hands-on-executive-path/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - 10 courses and 13 hands-on labs for security leaders: threat intelligence, AI in cybersecurity, DevSecOps, Zero Trust, incident response and compliance.
+- [Become a Network Security Specialist](https://offers.coderedpro.com/becoming-a-network-security-specialist-special-offer/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - 8 network security courses, 40+ hours and 265+ lessons, from protocols and routing to network penetration testing and device hardening.
+- [Top 10 AI-Powered Cybersecurity Skills for 2026](https://offers.coderedpro.com/top-10-ai-powered-cybersecurity-skills-for-2026/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - 10 courses on applying AI in real-world cybersecurity scenarios. No prior AI experience required.
+- [Complete Toolkit for Cybersecurity Mastery](https://offers.coderedpro.com/the-complete-toolkit-for-cybersecurity-mastery-offer/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - 15 courses for careers in penetration testing, ethical hacking and more.
+- [The Complete Mobile Ethical Hacking Course](https://offers.coderedpro.com/the-complete-mobile-ethical-hacking-special-offer/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Android penetration testing, hacking and securing Android apps, and mobile backdoors.
+- [Master Python Programming Language Hands-on](https://offers.coderedpro.com/python-mastery-special-limited-offer/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Python 3 from the basics to advanced topics, plus math by coding in Python.
+
+---
+
 ## 🧪 Hands-on Cybersecurity Labs
 Hands-on cybersecurity labs run with real tools in a safe browser environment. All 15 free labs:
 - [Mastering Network Scanning and Vulnerability Assessment with Nmap](https://coderedpro.com/products/mastering-network-scanning-and-vulnerability-assessment-with-nmap-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Gain hands-on experience with Nmap to conduct effective network scanning, vulnerability detection, and advanced analysis.
