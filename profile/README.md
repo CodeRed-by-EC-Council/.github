@@ -2,11 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/ec-council-learning/.github/main/assets/codered-mark.svg" alt="CodeRed logo" width="110">
 
-# CodeRed by EC-Council
+# CodeRed by EC-Council: Free CTF Challenges, Hands-on Cybersecurity Labs and AI Security Courses
 
 **Hands-on cybersecurity training you can start for free.**
 
-<a href="https://coderedpro.com/collections/hands-on-ctfs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="CTFs 400%2B" src="https://img.shields.io/badge/CTFs-400%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Labs 600%2B" src="https://img.shields.io/badge/Labs-600%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Courses 900%2B" src="https://img.shields.io/badge/Courses-900%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Free%20account Create" src="https://img.shields.io/badge/Free%20account-Create-d22027?style=for-the-badge"></a>
+<a href="https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Create Free Account" src="https://img.shields.io/badge/CREATE%20FREE%20ACCOUNT-No%20card%20required-d22027?style=for-the-badge" height="46"></a>
+
+<a href="https://coderedpro.com/collections/hands-on-ctfs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="CTFs 400%2B" src="https://img.shields.io/badge/CTFs-400%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Labs 600%2B" src="https://img.shields.io/badge/Labs-600%2B-d22027?style=for-the-badge"></a> <a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Courses 900%2B" src="https://img.shields.io/badge/Courses-900%2B-d22027?style=for-the-badge"></a>
 
 <a href="https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org"><img alt="Average%20rating 4.8%E2%98%85" src="https://img.shields.io/badge/Average%20rating-4.8%E2%98%85-d22027?style=for-the-badge"></a>
 
@@ -14,20 +16,22 @@
 
 </div>
 
-| [**Hands-on Labs and CTFs**](#-hands-on-labs) | [**AI Courses for Cybersecurity**](#-ai-courses-for-cybersecurity) | [**Blog and Learning Resources**](#-latest-from-the-blog) |
+CodeRed is EC-Council's hands-on cybersecurity learning platform. This organization lists its free CTF challenges, hands-on cybersecurity labs, AI security courses and cybersecurity certification prep courses, with a link to every course page.
+
+| [**Hands-on Cybersecurity Labs and CTFs**](#-hands-on-cybersecurity-labs) | [**AI Security Courses**](#-ai-security-courses) | [**Blog and Learning Resources**](#-latest-from-the-blog) |
 |---|---|---|
 | Real tools in a browser | Courses and labs on AI attacks and defense | Guides and threat write-ups |
 | [Browse labs](https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Browse AI courses](https://coderedpro.com/collections/all-ai-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Free courses](https://coderedpro.com/collections/free-cybersecurity-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) |
 
 > [!TIP]
-> **[Create free account](https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** - free access to 15 CTFs, 15 labs and 25+ video courses. No card required.
+> **[Create free account](https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** - free access to 15 CTFs, 15 labs and 25+ video courses. No card required.
 
 **400+ CTF challenges | 600+ hands-on labs | 900+ micro-courses | 70+ learning paths**
 
 ---
 
-## 🧪 Hands-on Labs
-Real tools in a safe browser environment. All 15 free labs:
+## 🧪 Hands-on Cybersecurity Labs
+Hands-on cybersecurity labs run with real tools in a safe browser environment. All 15 free labs:
 - [Mastering Network Scanning and Vulnerability Assessment with Nmap](https://coderedpro.com/products/mastering-network-scanning-and-vulnerability-assessment-with-nmap-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Gain hands-on experience with Nmap to conduct effective network scanning, vulnerability detection, and advanced analysis.
 - [Network Forensics and Attack Analysis Using Wireshark](https://coderedpro.com/products/network-forensics-and-attack-analysis-using-wireshark-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Dive into real-world network forensics with Wireshark to uncover and analyze cyberattacks, including botnet activity, brute-force attacks.
 - [Analyzing Network Traffic for Sensitive Data Leaks](https://coderedpro.com/products/analyzing-network-traffic-for-sensitive-data-leaks-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Learn to detect sensitive data leaks by capturing and analyzing network traffic with Wireshark, focusing on authentication credentials.
@@ -48,8 +52,8 @@ Real tools in a safe browser environment. All 15 free labs:
 
 ---
 
-## 🤖 AI Courses for Cybersecurity
-All 16 AI security courses:
+## 🤖 AI Security Courses
+All 16 AI security courses for cybersecurity:
 - [Agentic AI for Cybersecurity](https://coderedpro.com/products/agentic-ai-for-cybersecurity?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Mastering Defensive, Offensive, and Governance Aspects of Agentic AI.
 - [AI and MCP for Reverse Engineering](https://coderedpro.com/products/ai-and-mcp-for-reverse-engineering?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - AI-assisted reversing by integrating LLMs with tools via Model Context Protocol (MCP) to automate & accelerate analysis.
 - [AI-Driven Network Security](https://coderedpro.com/products/ai-driven-network-security?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Master AI-powered Cybersecurity: Hands-on Strategies for Enhanced Threat Detection and Real-World Implementation.
@@ -71,8 +75,8 @@ All 16 AI security courses:
 
 ---
 
-## 🎯 Certification Prep
-Exam prep courses for security and cloud certifications. These are the cert prep courses on CodeRed today:
+## 🎯 Cybersecurity Certification Prep
+Cybersecurity certification prep courses, including CISSP, CISM, CompTIA Security+, AWS, Azure and Kubernetes (CKS) exam prep. These are the cert prep courses on CodeRed today:
 - [CISSP Cert Prep](https://coderedpro.com/products/cissp-cert-prep?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Prepare for the ISC2 CISSP certification exam with in-depth explanations and real-world examples.
 - [CISSP Certification Domains 1, 2, 3, and 4 Video Training](https://coderedpro.com/products/cissp-certifications-domains-1-2-3-and-4-video-training?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Video training for CISSP domains 1, 2, 3 and 4.
 - [CISSP Certification Domains 5, 6, 7, and 8 Video Training](https://coderedpro.com/products/cissp-certification-domains-5-6-7-and-8-video-training?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Video training for CISSP domains 5, 6, 7 and 8.
@@ -97,7 +101,7 @@ Exam prep courses for security and cloud certifications. These are the cert prep
 ---
 
 ## 🚩 Free CTF Challenges
-Try a real capture-the-flag challenge, about 1 hour each. All 15 free CTFs:
+Free CTF challenges for practice: each is a real capture-the-flag challenge, about 1 hour each. All 15 free CTFs:
 - [Zsoft](https://coderedpro.com/products/zsoft-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Perform network scanning and web enumeration to identify a SQL Injection vulnerability.
 - [Hidden](https://coderedpro.com/products/hidden-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Performing SMB enumeration, identifying hidden data via Alternate Data Streams (ADS), extracting credentials.
 - [Superman](https://coderedpro.com/products/superman-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (beginner) - Network scanning, web application credential guessing, gaining initial SSH access with compromised credentials.
@@ -118,7 +122,7 @@ Try a real capture-the-flag challenge, about 1 hour each. All 15 free CTFs:
 
 ---
 
-## 🎓 Free Video Courses
+## 🎓 Free Cybersecurity Video Courses
 All 29 free video courses:
 - [A Practical Introduction to Cloud Computing](https://coderedpro.com/products/a-practical-introduction-to-cloud-computing?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Cloud Computing made simple with real world practical examples.
 - [Agile Product Management: A Concise Introduction](https://coderedpro.com/products/agile-product-management-a-concise-introduction?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - A concise overview of Agile product management.
@@ -172,7 +176,7 @@ This is the GitHub home of CodeRed, EC-Council's hands-on cybersecurity learning
 - [cyber-skills-roadmaps](https://github.com/ec-council-learning/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
 - Course companion code and materials from EC-Council instructors, in the other repositories listed below.
 
-**[Create free account](https://coderedpro.com/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** | Platform: [learning.eccouncil.org](https://learning.eccouncil.org/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | Support: support@eccouncil.org
+**[Create free account](https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** | Platform: [learning.eccouncil.org](https://learning.eccouncil.org/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | Support: support@eccouncil.org
 
 ---
 
