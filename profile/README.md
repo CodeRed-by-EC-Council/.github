@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ec-council-learning/.github/main/assets/codered-mark.svg" alt="CodeRed logo" width="110">
+<img src="https://raw.githubusercontent.com/CodeRed-by-EC-Council/.github/main/assets/codered-mark.svg" alt="CodeRed logo" width="110">
 
 <h1>CodeRed by EC-Council:<br><a href="https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org">Create a Free Account</a><br>Free CTF Challenges, Hands-on Cybersecurity Labs and AI Security Courses</h1>
 
@@ -61,7 +61,7 @@ Hands-on cybersecurity labs run with real tools in a safe browser environment. A
 - [Advanced AI Red Teaming with PyRIT](https://coderedpro.com/products/advanced-ai-red-teaming-with-pyrit-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (advanced) - Provides hands-on experience in designing, executing, and analyzing stateful, multi-stage AI red teaming attacks with the PyRIT framework.
 - [Orchestrating Hybrid AI Red Team Operations](https://coderedpro.com/products/orchestrating-hybrid-ai-red-team-operations-10d?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (advanced) - Equips learners with the skills to design, execute, and analyze sophisticated hybrid AI red teaming attacks using the PyRIT framework.
 
-[Browse the free labs](https://coderedpro.com/collections/practice-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Browse all 600+ labs](https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Full lab catalog on GitHub](https://github.com/ec-council-learning/ctf-challenges-and-practice-labs)
+[Browse the free labs](https://coderedpro.com/collections/practice-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Browse all 600+ labs](https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Full lab catalog on GitHub](https://github.com/CodeRed-by-EC-Council/ctf-challenges-and-practice-labs)
 
 ---
 
@@ -84,7 +84,7 @@ All 16 AI security courses for cybersecurity:
 - [Securing Azure OpenAI Services](https://coderedpro.com/products/securing-azure-openai-services?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Securely deploy and manage Azure Open AI Services while maintaining compliance with security standards and regulations.
 - [Securing Cloud, AI, and IoT Ecosystems](https://coderedpro.com/products/securing-cloud-ai-and-iot-ecosystems?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Governance for Emerging Technologies and Sovereign Data.
 
-[Browse AI for Security courses](https://coderedpro.com/collections/ai-for-security?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [All AI courses](https://coderedpro.com/collections/all-ai-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [AI in cybersecurity on GitHub](https://github.com/ec-council-learning/ai-in-cybersecurity)
+[Browse AI for Security courses](https://coderedpro.com/collections/ai-for-security?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [All AI courses](https://coderedpro.com/collections/all-ai-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [AI in cybersecurity on GitHub](https://github.com/CodeRed-by-EC-Council/ai-in-cybersecurity)
 
 ---
 
@@ -180,7 +180,7 @@ All 29 free video courses:
 - [SQL Injection Attacks](https://coderedpro.com/products/sql-injection-attacks?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Learn how to perform SQL Injection attacks on websites.
 - [Ultimate JavaScript Strings](https://coderedpro.com/products/ultimate-javascript-strings?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - The Ultimate Practical Guide to Strings in JavaScript, how they work, how to use them, and how they can help your work!.
 
-[Browse the free courses](https://coderedpro.com/collections/free-cybersecurity-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Free learning list on GitHub](https://github.com/ec-council-learning/free-cybersecurity-learning)
+[Browse the free courses](https://coderedpro.com/collections/free-cybersecurity-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Free learning list on GitHub](https://github.com/CodeRed-by-EC-Council/free-cybersecurity-learning)
 
 ---
 
@@ -189,17 +189,17 @@ All 29 free video courses:
 - [What Is a Token Replay Attack? How Attackers Bypass MFA](https://coderedpro.com/blogs/featured-blogs/what-is-a-token-replay-attack-how-attackers-bypass-mfa-and-how-to-respond?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (6 Nov 2026)
 - [How Do I Spot a Deepfake Voice Scam Before I Lose Money?](https://coderedpro.com/blogs/featured-blogs/how-do-i-spot-a-deepfake-voice-scam-before-i-lose-money-a-verification-playbook?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (3 Nov 2026)
 
-More guides: [Free cybersecurity courses for beginners](https://coderedpro.com/collections/free-cybersecurity-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Roadmaps](https://github.com/ec-council-learning/cyber-skills-roadmaps) | [Free learning list](https://github.com/ec-council-learning/free-cybersecurity-learning)
+More guides: [Free cybersecurity courses for beginners](https://coderedpro.com/collections/free-cybersecurity-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [Roadmaps](https://github.com/CodeRed-by-EC-Council/cyber-skills-roadmaps) | [Free learning list](https://github.com/CodeRed-by-EC-Council/free-cybersecurity-learning)
 
 ---
 
 ## 🗂️ What is in this organization
 This is the GitHub home of CodeRed, EC-Council's hands-on cybersecurity learning platform. The repositories here:
 
-- [free-cybersecurity-learning](https://github.com/ec-council-learning/free-cybersecurity-learning): the free CTFs, labs and video courses you can start with an account at no cost.
-- [ctf-challenges-and-practice-labs](https://github.com/ec-council-learning/ctf-challenges-and-practice-labs): the full catalog of CTF challenges and practice labs, by level and track.
-- [ai-in-cybersecurity](https://github.com/ec-council-learning/ai-in-cybersecurity): AI security courses, labs and CTFs.
-- [cyber-skills-roadmaps](https://github.com/ec-council-learning/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
+- [free-cybersecurity-learning](https://github.com/CodeRed-by-EC-Council/free-cybersecurity-learning): the free CTFs, labs and video courses you can start with an account at no cost.
+- [ctf-challenges-and-practice-labs](https://github.com/CodeRed-by-EC-Council/ctf-challenges-and-practice-labs): the full catalog of CTF challenges and practice labs, by level and track.
+- [ai-in-cybersecurity](https://github.com/CodeRed-by-EC-Council/ai-in-cybersecurity): AI security courses, labs and CTFs.
+- [cyber-skills-roadmaps](https://github.com/CodeRed-by-EC-Council/cyber-skills-roadmaps): beginner roadmaps for pentesters, SOC analysts and AI security.
 - Course companion code and materials from EC-Council instructors, in the other repositories listed below.
 
 **[Create free account](https://coderedpro.com/account/register?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)** | Platform: [learning.eccouncil.org](https://learning.eccouncil.org/?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | Support: support@eccouncil.org
