@@ -122,6 +122,19 @@ Free CTF challenges for practice: each is a real capture-the-flag challenge, abo
 
 ---
 
+## 🔥 Popular Hands-on Labs and Courses
+More hands-on cybersecurity labs and short courses on CodeRed:
+- [Attacking Password Security with THC Hydra](https://coderedpro.com/products/attacking-password-security-with-thc-hydra?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (practice lab) - Learn to use THC Hydra, a powerful tool for simulating brute-force attacks on login systems, to test password strength and system resilience.
+- [Advanced OSINT: Facebook Post Analysis and User Identification](https://coderedpro.com/products/advanced-osint-facebook-post-analysis-and-user-identification?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (practice lab) - Learn to use Who Posted What?, an OSINT tool, to analyze Facebook posts, retrieve user IDs, and perform keyword-based searches for valuable insights.
+- [Using the Social Engineering Toolkit on Kali Linux](https://coderedpro.com/products/using-the-social-engineering-toolkit-on-kali-linux?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (practice lab) - Learn to launch and navigate the Social Engineering Toolkit (SET) on Kali Linux.
+- [Mastering Mobile Hacking](https://coderedpro.com/products/mastering-mobile-hacking?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (skill path) - Learn how hackers attack phones, mobile applications, and mobile devices with the latest technology, and protect yourself.
+- [Game Hacking: Cheat Engine Game Hacking Basics](https://coderedpro.com/products/game-hacking-cheat-engine-game-hacking-basics?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (short course) - Introduction to Reverse Engineering and Memory Hacking using Cheat Engine.
+- [Cybersecurity for Small and Medium Size Business](https://coderedpro.com/products/cybersecurity-for-small-and-medium-size-business?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) (short course) - Gain expertise in securing your organization.
+
+[Browse all short courses](https://coderedpro.com/collections/short-courses?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) | [All 600+ labs](https://coderedpro.com/collections/hands-on-labs?utm_source=github&utm_medium=org_readme&utm_campaign=github_org)
+
+---
+
 ## 🎓 Free Cybersecurity Video Courses
 All 29 free video courses:
 - [A Practical Introduction to Cloud Computing](https://coderedpro.com/products/a-practical-introduction-to-cloud-computing?utm_source=github&utm_medium=org_readme&utm_campaign=github_org) - Cloud Computing made simple with real world practical examples.
